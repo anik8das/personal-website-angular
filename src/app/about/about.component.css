@@ -19,30 +19,30 @@
     text-decoration: none;
 }
 .header{
-    font-size: 99px;
+    font-size: 103px;
     margin-left: 2.2%;
     margin-top: 0.2%;
 }
 .description{
-    font-size: 26px;
+    font-size: 27px;
     width: 71%;
-    padding-left: 2.9vw;
-    padding-top: 13.5vh;
+    padding-left: 2.7vw;
+    padding-top: 11.55vh;
     margin: auto;
     
 }
 .picture{
     height: 50vh;
     margin: auto;
-    padding-bottom: 4vh;
+    padding-bottom: 6.5vh;
     padding-right: 3vw;
 }
 img {
     border-radius: 10px;
     display: block;
     margin: auto;
-    width: 70%;
-    border: 2px solid #ddd;
+    width: 75%;
+    border: 3px solid #ddd;
     padding: 15px;
   }
   a{

@@ -1,0 +1,18 @@
+.experienceBackground{
+    margin:0;
+    padding:0;
+    height: 98vh;
+    width: 97.9vw;
+    background:#e6e6e6;
+    display:flex;
+    border: 1vh solid black;
+    border-top: 0.5vh;
+}
+.header{
+    padding: 0;
+    font-size: 99px;
+    margin-left: 1.16%;
+    margin-top: 0.2%;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300;
+}
