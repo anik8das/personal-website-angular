@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+.cover{
+    background-image: url("../../assets/coverBackground1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 98vh;
+    width: 97.9vw;
+    margin: 0;
+    background-attachment: fixed;
+    border: 1vh solid black;
+}
+
+.covertext{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10em;
+    color: white;
+    background: rgba(0,0,0,0.5);
+    width: 100%;
+    text-align: center;
+    word-spacing: 2vw;
+}
