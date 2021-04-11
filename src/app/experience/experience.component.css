@@ -3,10 +3,11 @@
     padding:0;
     height: 98vh;
     width: 97.9vw;
-    background:#e6e6e6;
+    background:rgb(48, 48, 48);
+    color: white;
     display:flex;
-    border: 1vh solid black;
-    border-top: 0.5vh;
+    border: 1vh solid white;
+    border-top: 0.5vh solid white;
 }
 .header{
     padding: 0;
