@@ -8,6 +8,7 @@
     display:flex;
     border: 1vh solid black;
     border-top: 0.5vh;
+    overflow-x: hidden;
 }
 .details{
     padding: 0;
@@ -28,15 +29,15 @@
     font-size: 3.7vh;
     width: 71%;
     padding-left: 2.4vw;
-    padding-top: 13.5vh;
+    padding-top: 14vh;
     margin: auto;
     
 }
 .picture{
-    height: 50vh;
+    height: 60vh;
     margin: auto;
-    padding-bottom: 8vh;
-    padding-right: 4vw;
+    padding-top: 6vh;
+    padding-right: 14vw;
 }
 img {
     border-radius: 10px;

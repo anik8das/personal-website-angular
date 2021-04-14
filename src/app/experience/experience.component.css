@@ -5,7 +5,6 @@
     width: 97.9vw;
     background:rgb(48, 48, 48);
     color: white;
-    display:flex;
     border: 1vh solid white;
     border-top: 0.5vh solid white;
 }
