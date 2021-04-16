@@ -1,14 +1,13 @@
 
-.aboutBackground{
+.accomBackground{
     margin:0;
     padding:0;
     height: 99.55vh;
     width: 98.65vw;
-    background-color:white;
-    display:flex;
+    background:white;
+    color: black;
     border: 1vh solid black;
-    border-top: 0.5vh;
-    overflow-x: hidden;
+    overflow:hidden;
 }
 .details{
     padding: 0;
@@ -21,35 +20,19 @@
     text-decoration: none;
 }
 .header{
-    padding: 0;
     font-size: 14.1vh;
-    margin-left: 1.8vw;
-    margin-top: 0;
-    padding-top:0;
+    margin-left: 1.7vw;
+    padding-top: 0;
+    margin-top:0;
 }
 .description{
     font-size: 3.4vh;
     width: 71%;
-    padding-left: 2.4vw;
-    padding-top: 10vh;
+    padding-left: 2vw;
+    padding-top: 9.6vh;
     margin: auto;
     
 }
-.picture{
-    height: 69vh;
-    margin: auto;
-    margin-top: 24.7vh;
-    padding-right: 14vw;
-    overflow-y: hidden;
-}
-img {
-    border-radius: 10px;
-    display: block;
-    margin: auto;
-    width: 28vw;
-    border: 3px solid #ddd;
-    padding: 15px;
-  }
   a{
       color:black;
       font-weight: 400;
