@@ -7,6 +7,7 @@ import { CoverComponent } from './cover/cover.component';
 import { AboutComponent } from './about/about.component';
 import { ExperienceComponent } from './experience/experience.component';
 import { AccomplishmentsComponent } from './accomplishments/accomplishments.component';
+import { ProjectsComponent } from './projects/projects.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { AccomplishmentsComponent } from './accomplishments/accomplishments.comp
     CoverComponent,
     AboutComponent,
     ExperienceComponent,
-    AccomplishmentsComponent
+    AccomplishmentsComponent,
+    ProjectsComponent
   ],
   imports: [
     BrowserModule,

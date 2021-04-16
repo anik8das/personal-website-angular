@@ -4,9 +4,9 @@
     padding:0;
     height: 99.55vh;
     width: 98.65vw;
-    background:white;
-    color: black;
-    border: 1vh solid black;
+    background:black;
+    color: white;
+    border: 1vh solid white;
     overflow:hidden;
 }
 .details{

@@ -4,7 +4,7 @@
     padding:0;
     height: 99.55vh;
     width: 98.65vw;
-    background-color:white;
+    background-color:rgb(250, 250, 250);
     display:flex;
     border: 1vh solid black;
     border-top: 0.5vh;
@@ -31,7 +31,7 @@
     font-size: 3.4vh;
     width: 71%;
     padding-left: 2.4vw;
-    padding-top: 10vh;
+    padding-top: 9.5vh;
     margin: auto;
     
 }
