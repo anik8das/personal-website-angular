@@ -2,7 +2,7 @@
 .accomBackground{
     margin:0;
     padding:0;
-    height: 99.55vh;
+    height: 99.9vh;
     width: 98.65vw;
     background:black;
     color: white;
@@ -20,7 +20,7 @@
     text-decoration: none;
 }
 .header{
-    font-size: 14.1vh;
+    font-size: 14vh;
     margin-left: 1.7vw;
     padding-top: 0;
     margin-top:0;
