@@ -1,15 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
+.animate__bounceIn {
+    --animate-duration: 2s;
+  }
+  
+
 .cover{
-    background-image: url("../../assets/coverBackground1.jpg");
+    background-image: url("../../assets/coverBackground.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 98vh;
-    width: 97.9vw;
+    height: 99.8vh;
+    width: 98.65vw;
     margin: 0;
     background-attachment: fixed;
     border: 1vh solid black;

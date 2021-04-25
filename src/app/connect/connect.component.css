@@ -1,0 +1,82 @@
+
+.connectBackground{
+    margin:0;
+    padding:0;
+    height: 99.9vh;
+    width: 98.65vw;
+    background-color: 	rgb(230,230,230);
+    color: black;
+    border: 1vh solid black;
+    overflow:hidden;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 300;
+}
+.icons{
+    margin: auto;
+    width: 85vw;
+    margin-top: 4vh;
+}
+.upper-icons{
+    display: flex;
+    margin:auto;
+    width: 80vw;
+    overflow: hidden;
+}
+.lower-icons{
+    display: flex;
+    width: 80vw;
+    margin: auto;
+    margin-top: 2vh;
+    overflow:hidden;
+}
+.my-icon-class-top:not(:last-child){
+    align-items: center;
+    padding: 3vh;
+    height: 31vh;
+    margin-right: 13vw;
+    overflow:hidden;
+}
+
+.my-icon-class-top:last-child{
+    align-items: center;
+    padding: 3vh;
+    height: 31vh;
+    overflow:hidden;
+}
+
+.my-icon-class-bottom{
+    align-items: center;
+    padding: 3vh;
+    height: 31vh;
+    overflow-y:hidden;
+    margin-right: 13vw;
+}
+
+.my-icon-class-bottom:first-child{
+    margin-left: 11vw;
+    height: 31vh;
+    overflow-y:hidden;
+}
+
+.icon-header{
+    font-size: 4vh;
+    margin-top: 4vh;
+    text-align: center;
+    padding-left: 0.34vw;
+}
+
+.zoom{
+  transition: transform .2s;
+}
+.zoom:hover{
+    transform: scale(1.1);
+}
+
+  a{
+      color:black;
+      font-weight: 400;
+      text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+  }

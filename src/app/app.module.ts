@@ -6,18 +6,26 @@ import { AppComponent } from './app.component';
 import { CoverComponent } from './cover/cover.component';
 import { AboutComponent } from './about/about.component';
 import { ExperienceComponent } from './experience/experience.component';
+import { AccomplishmentsComponent } from './accomplishments/accomplishments.component';
+import { ProjectsComponent } from './projects/projects.component';
+import { ConnectComponent } from './connect/connect.component';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 @NgModule({
   declarations: [
     AppComponent,
     CoverComponent,
     AboutComponent,
-    ExperienceComponent
+    ExperienceComponent,
+    AccomplishmentsComponent,
+    ProjectsComponent,
+    ConnectComponent
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    FontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
