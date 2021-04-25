@@ -9,6 +9,7 @@ import { ExperienceComponent } from './experience/experience.component';
 import { AccomplishmentsComponent } from './accomplishments/accomplishments.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { ConnectComponent } from './connect/connect.component';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 @NgModule({
   declarations: [
@@ -23,7 +24,8 @@ import { ConnectComponent } from './connect/connect.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    BrowserAnimationsModule
+    BrowserAnimationsModule,
+    FontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
