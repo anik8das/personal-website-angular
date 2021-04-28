@@ -1,6 +1,6 @@
 # Personal Website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6. The website is hosted at aniketdas.com
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6. The website is hosted at <a href = "aniketdas.com">aniketdas.com</a>
 
 ## Development server
 
