@@ -1,5 +1,6 @@
 #navbarr{
     opacity:0;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .navcontainer:hover #navbarr {
     opacity:1;  /*when parent is hovered */

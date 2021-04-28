@@ -10,6 +10,7 @@ import { AccomplishmentsComponent } from './accomplishments/accomplishments.comp
 import { ProjectsComponent } from './projects/projects.component';
 import { ConnectComponent } from './connect/connect.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { NavComponent } from './nav/nav.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
     ExperienceComponent,
     AccomplishmentsComponent,
     ProjectsComponent,
-    ConnectComponent
+    ConnectComponent,
+    NavComponent
   ],
   imports: [
     BrowserModule,
