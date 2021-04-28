@@ -1,4 +1,3 @@
-import { ContentService } from './../content.service';
 import { Component, OnInit, ViewEncapsulation  } from '@angular/core';
 
 
@@ -9,9 +8,7 @@ import { Component, OnInit, ViewEncapsulation  } from '@angular/core';
   encapsulation: ViewEncapsulation.None
 })
 export class AboutComponent implements OnInit {
-  descriptionText:string;
-  constructor(content:ContentService) {
-    this.descriptionText = content.aboutContent;
+  constructor() {
    }
 
   ngOnInit(): void {

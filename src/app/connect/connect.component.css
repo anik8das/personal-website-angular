@@ -15,6 +15,7 @@
     margin: auto;
     width: 85vw;
     margin-top: 4vh;
+    padding-right: 0.7vw;
 }
 .upper-icons{
     display: flex;
