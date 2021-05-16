@@ -1,7 +1,0 @@
-#navbarr{
-    opacity:0;
-}
-.navcontainer:hover #navbarr {
-    opacity:1;  /*when parent is hovered */
-  }
-  

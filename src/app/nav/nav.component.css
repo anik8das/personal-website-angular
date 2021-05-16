@@ -1,8 +1,12 @@
 #navbarr{
-    opacity:0;
     font-family: 'Roboto Condensed', sans-serif;
+    transition-duration: 2s;
 }
 .navcontainer:hover #navbarr {
-    opacity:1;  /*when parent is hovered */
+    transition-duration: 0s;
+    opacity:1 !important;  /*when parent is hovered */
   }
-  
+
+#navbarr:hover{
+    opacity: 1;
+}
